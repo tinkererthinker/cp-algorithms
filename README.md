@@ -5,3 +5,4 @@ Algebras are like design patterns that solve a specific set of problems.
 ## examples
 - semi groups
   - binary exponentiation 
+    - How fast can we multiply?
